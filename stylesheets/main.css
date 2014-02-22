@@ -1,0 +1,8 @@
+body, html {
+    clear: both;
+    margin:   0;
+    padding:  0;
+}
+img.src-lgtm {
+    width: 60%;
+}
